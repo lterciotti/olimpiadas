@@ -42,19 +42,3 @@ Quer ajudar a melhorar essa aplicação? Fique à vontade para abrir um pull req
 **Vamos juntos torcer pelo Brasil!** 🇧🇷
 
 **#desenvolvedor #javascript #html #css #esporte #atletasbrasileiros**
-
-**[Seu nome ou nome da sua equipe]**
-
-**[Link para o seu perfil no GitHub]**
-
-**[Link para o repositório do projeto]**
-
-**[Data]**
-
-**Observações:**
-
-* Adapte este README.md para o seu projeto, adicionando mais detalhes sobre as funcionalidades, as tecnologias utilizadas e como contribuir.
-* Use emojis para deixar o texto mais divertido e fácil de entender.
-* Inclua links para os seus perfis nas redes sociais e para outros projetos seus.
-
-**Com este README.md, você terá um guia completo e informativo para o seu projeto, atraindo mais colaboradores e mostrando o seu trabalho para o mundo!**
