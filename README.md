@@ -1,4 +1,4 @@
-## Busca Rápida de Atletas: Seu Portal para o Esporte!
+## Busca Rápida de Atletas: Seu Portal para o Esporte! - Imersão Dev Alura com Google Gemini
 
 **O que faz essa aplicação?**
 
